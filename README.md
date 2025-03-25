@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HIkari_aki01</h1>
+<h1 align="center">HIkari_aki01</h1>
 <h3 align="center">Programmer & Cybersecurity</h3>
 
 <p align="center">
