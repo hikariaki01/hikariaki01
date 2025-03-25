@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm HIkari_aki01</h1>
 <h3 align="center">Programmer & Cybersecurity</h3>
 
+<p align="center">
+  <img src="https://i.ibb.co.com/Q3vPt23H/banner.gif" alt="GitHub Banner" width="100%">
+</p>
+
 - 💬 Ask me about **Cybersecurity & Ethical Hacking**
-
-
 <p align="left">
 </p>
 
